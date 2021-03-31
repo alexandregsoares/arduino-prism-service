@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg902"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="uml.svg">
+  <defs
+     id="defs896" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="251.47548"
+     inkscape:cy="797.33757"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata899">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1472"
+       transform="translate(-31.314086,58.405023)">
+      <g
+         transform="matrix(1.5698287,0,0,1.5698287,-20.086919,-4.0130738)"
+         id="g1455">
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3336021;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1447"
+           width="30.842224"
+           height="19.76638"
+           x="70.250938"
+           y="40.779648" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.31799999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 70.225067,48.289589 H 101.22833"
+           id="path1451"
+           inkscape:connector-curvature="0" />
+      </g>
+      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,78.307537,2.6458333)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot1457"
+         xml:space="preserve"><flowRegion
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+           id="flowRegion1459"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+             y="231.06006"
+             x="77.781746"
+             height="111.11678"
+             width="186.87822"
+             id="rect1461" /></flowRegion><flowPara
+           id="flowPara1463">ControllerView</flowPara></flowRoot>    </g>
+    <g
+       id="g1504"
+       transform="translate(16.572621,15.243977)">
+      <g
+         id="g1478"
+         transform="matrix(1.5698287,0,0,1.5698287,-67.973625,-9.8189362)">
+        <rect
+           y="40.779648"
+           x="70.250938"
+           height="19.76638"
+           width="30.842224"
+           id="rect1474"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3336021;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path1476"
+           d="M 70.225067,48.289589 H 101.22833"
+           style="fill:none;stroke:#000000;stroke-width:0.31799999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot1486"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.26458333,0,0,0.26458333,24.29304,-3.1600291)"><flowRegion
+           id="flowRegion1482"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:sans-serif"><rect
+             id="rect1480"
+             width="186.87822"
+             height="111.11678"
+             x="77.781746"
+             y="231.06006"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:sans-serif" /></flowRegion><flowPara
+           id="flowPara1484">ControllerViewModel</flowPara></flowRoot>    </g>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.64336121;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1506"
+       width="48.297344"
+       height="46.946339"
+       x="147.01326"
+       y="52.066471" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.4992055;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 146.91282,63.795963 h 48.66981"
+       id="path1508"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1518"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,133.96111,-5.3515077)"><flowRegion
+         id="flowRegion1514"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:sans-serif"><rect
+           id="rect1512"
+           width="186.87822"
+           height="111.11678"
+           x="77.781746"
+           y="231.06006"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:sans-serif" /></flowRegion><flowPara
+         id="flowPara1516">ControllerModel</flowPara></flowRoot>    <g
+       transform="translate(-97.488518,-73.170819)"
+       id="g1552">
+      <g
+         id="g1542"
+         transform="matrix(1.5698287,0,0,1.5698287,0.384432,14.718441)">
+        <rect
+           y="40.779648"
+           x="70.250938"
+           height="19.76638"
+           width="30.842224"
+           id="rect1538"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3336021;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path1540"
+           d="M 70.225067,48.289589 H 101.22833"
+           style="fill:none;stroke:#000000;stroke-width:0.31799999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot1550"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.26458333,0,0,0.26458333,97.674046,21.377348)"><flowRegion
+           id="flowRegion1546"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:sans-serif"><rect
+             id="rect1544"
+             width="186.87822"
+             height="111.11678"
+             x="77.781746"
+             y="231.06006"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:sans-serif" /></flowRegion><flowPara
+           id="flowPara1548">ControllerComm</flowPara></flowRoot>    </g>
+    <g
+       id="g1588"
+       transform="translate(15.850443,-33.96375)">
+      <g
+         id="g1558"
+         transform="matrix(1.5698287,0,0,1.5698287,20.964185,79.130397)">
+        <rect
+           y="40.779648"
+           x="70.250938"
+           height="19.76638"
+           width="30.842224"
+           id="rect1554"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3336021;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path1556"
+           d="M 70.225067,48.289589 H 101.22833"
+           style="fill:none;stroke:#000000;stroke-width:0.31799999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot1566"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(0.26458333,0,0,0.26458333,116.58258,85.789304)"><flowRegion
+           id="flowRegion1562"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:sans-serif"><rect
+             id="rect1560"
+             width="186.87822"
+             height="111.11678"
+             x="77.781746"
+             y="231.06006"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:sans-serif" /></flowRegion><flowPara
+           id="flowPara1564">ControllerService</flowPara><flowPara
+           id="flowPara1570" /></flowRoot>    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1599"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10.66666667px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:sans-serif;font-stretch:normal;font-variant:normal;"><flowRegion
+         id="flowRegion1601"
+         style="-inkscape-font-specification:sans-serif;font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;"><rect
+           id="rect1603"
+           width="162.63457"
+           height="47.477169"
+           x="524.77423"
+           y="437.63626"
+           style="-inkscape-font-specification:sans-serif;font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.66666667px;" /></flowRegion><flowPara
+         id="flowPara1605"></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="148.58202"
+       y="71.243797"
+       id="text1609"><tspan
+         sodipodi:role="line"
+         id="tspan1607"
+         x="148.58202"
+         y="71.243797"
+         style="font-size:4.23333311px;stroke-width:0.26458332">bool[] buttonsState</tspan></text>
+    <g
+       id="g1748"
+       transform="translate(12.359249,-73.170818)">
+      <g
+         transform="translate(-18.708867,-3.4745039)"
+         id="g1724">
+        <rect
+           y="192.43306"
+           x="-37.665722"
+           height="31.029831"
+           width="61.25396"
+           id="rect1611"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.52399999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path1613"
+           d="M -37.717103,204.22238 H 23.856685"
+           style="fill:none;stroke:#000000;stroke-width:0.52399999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <flowRoot
+           transform="matrix(0.26458333,0,0,0.26458333,-50.01803,135.0749)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           id="flowRoot1623"
+           xml:space="preserve"><flowRegion
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+             id="flowRegion1619"><rect
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+               y="231.06006"
+               x="77.781746"
+               height="20.20306"
+               width="175.26147"
+               id="rect1617" /></flowRegion><flowPara
+             id="flowPara1621">ControllerCommView</flowPara></flowRoot>      </g>
+      <g
+         transform="translate(0.56412232,0.80180854)"
+         id="g1732">
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.52399999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1627"
+           width="75.017281"
+           height="31.029831"
+           x="-63.850533"
+           y="141.54384" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.52399999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M -63.913459,153.33316 H 11.495517"
+           id="path1629"
+           inkscape:connector-curvature="0" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot1639"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           transform="matrix(0.26458333,0,0,0.26458333,-75.448971,82.982974)"><flowRegion
+             id="flowRegion1635"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:sans-serif"><rect
+               id="rect1633"
+               width="221.22342"
+               height="22.223366"
+               x="77.781746"
+               y="231.06006"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:sans-serif" /></flowRegion><flowPara
+             id="flowPara1637">ControllerCommViewModel</flowPara></flowRoot>      </g>
+    </g>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.52369815;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1684"
+       width="48.417007"
+       height="31.029831"
+       x="-153.67313"
+       y="90.341103" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.4992055;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -153.71374,102.13042 h 48.66981"
+       id="path1686"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1696"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-157.29962,32.982948)"><flowRegion
+         id="flowRegion1692"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:sans-serif"><rect
+           id="rect1690"
+           width="141.16394"
+           height="21.116789"
+           x="77.781746"
+           y="231.06006"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:sans-serif" /></flowRegion><flowPara
+         id="flowPara1694">XXXXX</flowPara></flowRoot>  </g>
+</svg>
